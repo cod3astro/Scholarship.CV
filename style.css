@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+background-color: rgb(10, 71, 10);
+color: #fff;
+margin: 0 auto;
+width: 60%;
+height: 80px;
+padding: 20px 30px 40px 20px;
+}
+#imgdiv{
+    width: 20%;
+    float: left;
+}
+img{
+    height: 120px;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.textchange{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#headdiv{
+    width: 60%;
+    float: right;
+}
+#addy{
+    margin-top: 2px;
+    margin-left: 311px;
+}
+#tele{
+    margin-top: 5px;
+    margin-left: 382px;
+}
+#mail{
+    margin-top: 5px;
+    margin-left: 321px;
+}
+#sect{
+    width: 60%;
+    margin: 15px auto;
+}
+#secti{
+    color: darkgreen;
+    border-bottom: 1px solid darkgreen;
+    margin: 10px 0;
+}
+#unol{
+    display: flex;
+    justify-content: space-evenly;
+}
+#ajit{
+    width: 80%;
+    margin: 10px auto;
+}
+#hun{
+    width: 30%;
+    float: left;
+}
+#hung{
+    width: 70%;
+    float: right;
+    font-weight: 700;
+    margin-left: 0;
+}
+#outli{
+    font-weight: 700;
+    margin: 10px 0 0 0;
+}
+.bold{
+    font-weight: 900;
+}
+.italic{
+    color: darkgreen;
+    font-weight: 700;
+    font-style: inherit;
+}
